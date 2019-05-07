@@ -16,7 +16,7 @@ IntelliJ ignores it and the project is set to use Java 5.
 "Import maven projects automatically" is enabled.
 
 image:auto-import-mvn-settings.png[]
-The screencast below show that the project is still confired as Java 5.
+The screencast below show that the project is still configured as Java 5.
 
 image:lang-level-issue-mvn-proj.gif[]
 
